@@ -87,6 +87,6 @@ Matheus Guerra Lobo de Miranda Costa
 
 💼 LinkedIn: www.linkedin.com/in/matheus-guerra-c21
 
-🐙 GitHub: https://github.com/Matheusguerra-21
+🐙 GitHub: https://github.com/MatheusGuerra-21
 
 ✉️ Email:  Matheusguerra2106@gmail.com
